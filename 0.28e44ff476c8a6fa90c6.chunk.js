@@ -1,0 +1,1 @@
+webpackJsonp([0],{vGgn:function(t,n,s){"use strict";s.d(n,"a",function(){return i});var i=function(){function t(){this.numPerPage=10,this.totalRows=0,this.totalPages=0,this.currentPage=1,this.startIndex=0,this.lastIndex=0,this.resultList=[]}return t}()}});
